@@ -1,0 +1,6 @@
+com\sh\ctrl\UsersController.class
+com\sh\app\App.class
+com\sh\service\UsersService.class
+com\sh\entity\UserEntity.class
+com\sh\config\Config.class
+com\sh\repository\UsersRepository.class
